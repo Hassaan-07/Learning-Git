@@ -1,0 +1,9 @@
+yesterday i learnt about stack and heap basically stack store the refrences of objects and heap store actual object.
+For Eg :
+	a = 10
+	b = [1,3,4,3]
+stack		heap
+	
+a	-->	10
+b	--> 	[1,3,4,3]
+
