@@ -1,0 +1,5 @@
+		ARRAYS
+1- Array is collection which store collection of same values
+2- Array memory structure is contigous 
+3- Array is a fixed size data structure 
+4- Insertion in an array is O(1)

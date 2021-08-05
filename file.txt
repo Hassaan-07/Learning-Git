@@ -1,1 +1,3 @@
 hello this is a file.txt which has edited for first time
+
+I added second line in file.txt for the reason of doing second commit.
